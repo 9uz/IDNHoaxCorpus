@@ -2,6 +2,7 @@
 Dataset Berita Palsu bahasa Indonesia (Hoax), Dataset Berita Palsu untuk Klasifikasi Teks dalam Bahasa Indonesia pada platform X
 
 # Bagaimana korpus ini dibuat??
+Data ini dikumpulkan team Universitas Muhammadiya Ponorogo pada tahun 2020.
 Korpus dibuat dengan mengguanaka data yang ada pada platform  https://x.com/. Kemudian semua konten HTML murni diproses untuk mengekstrak teks artikel dengan beberapa kolom tambahan (tercantum di bawah). Setiap komentar/tweet telah diberi label yang sama dengan label yang terkait dengan domainnya. Data berisi 4617 baris × 6 kolom dengan 3 label hoax,?,dan valid
 
 # Formatiing ??
